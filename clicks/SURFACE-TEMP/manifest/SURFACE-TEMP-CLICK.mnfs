@@ -1,10 +1,10 @@
 ;
-; THERMO 12 CLICK
-; https://www.mikroe.com/thermo-12-click
+; SURFACE TEMP CLICK
+; https://www.mikroe.com/surface-temp-click
 ; CONFIG_SENSORS_ADT7410
 ;
-; Copyright 2020 BeagleBoard.org Foundation 
-; Copyright 2020 Texas Instruments 
+; Copyright 2020 BeagleBoard.org Foundation
+; Copyright 2020 Texas Instruments
 ;
 
 [manifest-header]
@@ -19,7 +19,7 @@ product-string-id = 2
 string = MIKROE
 
 [string-descriptor 2]
-string = Thermo 12 
+string = Surface Temp
 
 [mikrobus-descriptor]
 pwm-state = 4
